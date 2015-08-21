@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: <your name here>
-Credit: <list sources used, if any>
+Author: Eric Dennison
+Credit: I did it by myself!
 
 Assignment:
 
