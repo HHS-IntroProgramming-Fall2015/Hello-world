@@ -1,6 +1,6 @@
 """
 helloworld.py
-Author: E Dennison
+Author: <E Dennison>
 Credit: I did it myself!
 
 Assignment:
