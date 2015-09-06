@@ -1,6 +1,6 @@
 """
 helloworld.py
-Author: <Adam Pikielny>
+Author: Adam Pikielny
 Credit: <list sources used, if any>
 
 Assignment:
