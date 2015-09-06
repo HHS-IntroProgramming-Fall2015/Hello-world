@@ -2,8 +2,8 @@
 helloworld.py
 Author: <your name here>
 Credit: <list sources used, if any>
-Author: J Napier    
-Credit: On my own
+Author:JNapier    
+Credit:Onmyown
 Assignment:
 
 Write and submit a Python program that prints the following:
