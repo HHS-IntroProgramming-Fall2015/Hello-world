@@ -1,7 +1,7 @@
 """
 helloworld.py
 Author: E Dennison
-Credit: I did it myself
+Credit: I did it myself!
 
 Assignment:
 
