@@ -3,7 +3,7 @@ helloworld.py
 Author: <your name here>
 Credit: <list sources used, if any>
 Author: J Napier    
-Credit: tiggerntatie2
+Credit: On my own
 Assignment:
 
 Write and submit a Python program that prints the following:
