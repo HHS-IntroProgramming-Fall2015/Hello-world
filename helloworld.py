@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: <Anoushka Alavilli>
-Credit: <Sarah Dunbar, Mr. Dennison>
+Author: Anoushka Alavilli
+Credit: Sarah Dunbar, Mr. Dennison
 
 Assignment:
 
