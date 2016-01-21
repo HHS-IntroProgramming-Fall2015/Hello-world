@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: Hagin
-Credit: <list sources used, if any>
+Author: Hagin Onyango
+Credit: Hagin Onyango
 
 Assignment:
 
