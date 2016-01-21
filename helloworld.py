@@ -1,7 +1,7 @@
 """
 helloworld.py
 Author: <Tess Snyder>
-Credit: <none>
+Credit: <Mr. Dennison>
 Assignment:
 Write and submit a Python program that prints the following:
 Hello, world!
