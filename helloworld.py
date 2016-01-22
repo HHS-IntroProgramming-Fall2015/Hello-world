@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: <Mary Feyrer>
-Credit: <none>
+Author: Mary Feyrer
+Credit: none
 
 Assignment:
 
