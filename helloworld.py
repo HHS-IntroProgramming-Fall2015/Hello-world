@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: <David Wilson>
-Credit: <Will Campbell>
+Author: David Wilson
+Credit: Will Campbell
 
 Assignment:
 
