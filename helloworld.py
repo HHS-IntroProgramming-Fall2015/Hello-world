@@ -1,5 +1,5 @@
 """
-hellofriend.py
+helloworld.py
 Author: Billy B
 Credit: Hagin, Mr Dennison
 
