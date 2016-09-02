@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: <kingmayonaise>
-Credit: <>
+Author: Daniel Melnikov
+Credit: Myself
 
 Assignment:
 
