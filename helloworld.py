@@ -1,12 +1,11 @@
-"""
-helloworld.py
-Author: <Edit>
-Credit: <Wilson>
+#helloworld.py
+#Author: <Edit>
+#Credit: <Wilson>
 
-Assignment:
+#Assignment:
 
-Write and submit a Python program that prints the following:
+#Write and submit a Python program that prints the following:
 
-Hello, world!
-"""
+print("Hello, world!")
+
 
