@@ -1,12 +1,13 @@
 """
 helloworld.py
-Author: <your name here>
-Credit: <list sources used, if any>
+Author: Bauti Gallino
+Credit: Liam S.
 
-Assignment:
+Assignment:helloworld.py
 
 Write and submit a Python program that prints the following:
 
 Hello, world!
 """
 
+print("Hello, world!")
