@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: <kezar>
-Credit: <xnimblenavigatorx>
+Author: kezar
+Credit: xnimblenavigatorx, kotz
 
 Assignment: Hello World
 
