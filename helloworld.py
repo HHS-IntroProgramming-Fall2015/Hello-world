@@ -10,4 +10,4 @@ Write and submit a Python program that prints the following:
 Hello, world!
 """
 
-print ("hello world")
+print ("Hello, world!")
