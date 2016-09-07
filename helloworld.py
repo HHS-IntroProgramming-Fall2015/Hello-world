@@ -1,7 +1,7 @@
 """
 helloworld.py
 Author: john warhold
-Credit: <none>
+Credit: none
 Assignment:
 Write and submit a Python program that prints the following:
 Hello, world!
