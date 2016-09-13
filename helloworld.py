@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: <xXxXxNimbleNavigatorxXxXx>
-Credit: <kezarburlar>
+Author: xXxXxNimbleNavigatorxXxXx
+Credit: kezarburgar
 
 Assignment:Hello, world
 
