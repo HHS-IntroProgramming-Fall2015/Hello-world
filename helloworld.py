@@ -9,3 +9,6 @@ Assignment:
 Hello, world!
 """
 
+print("Hello, world!")
+
+
