@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: <Abby Feyrer>
-Credit: <Jasmine>
+Author: Abby Feyrer
+Credit: Jasmine
 
 Assignment:
 
