@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: <Daniel Pinigin>
-Credit: <Mr. Dennison & Other Peers>
+Author: Daniel Pinigin
+Credit: Mr. Dennison & Other Peers
 
 Assignment:
 
