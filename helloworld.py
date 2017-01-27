@@ -10,3 +10,5 @@ Write and submit a Python program that prints the following:
 Hello, world!
 """
 
+a="Hello, world!"
+print(a)
