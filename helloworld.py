@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: <Katie Naughton>
-Credit: <I did this by myself.>
+Author: Katie Naughton
+Credit: I did this by myself.
 
 Assignment:
 
