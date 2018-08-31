@@ -1,7 +1,7 @@
 """
 helloworld.py
 Author: Joe Richter
-Credit: <list sources used, if any>
+Credit: I did this myself
 
 Assignment:
 
