@@ -1,6 +1,6 @@
 """
 helloworld.py
-Author: christopher
+Author: christopher lee
 Credit: none
 
 Assignment:
