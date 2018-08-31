@@ -1,7 +1,7 @@
 """
 helloworld.py
 Author: Jackson Lake
-Credit: <list sources used, if any>
+Credit: In class info
 
 Assignment:
 
