@@ -1,7 +1,7 @@
 """
 helloworld.py
 Author: <Emma Dunbar>
-Credit: <non>
+Credit: <none>
 
 Assignment:
 
