@@ -1,7 +1,7 @@
 """
 helloworld.py
 Author: Tristan Meyer
-Credit: none
+Credit: None
 
 Assignment:
 
