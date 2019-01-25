@@ -1,7 +1,7 @@
 """
 helloworld.py
 Author: JaEimele24
-Credit: <N/A>
+Credit: N/A
 
 Assignment:
 
