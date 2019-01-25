@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: <your name here>
-Credit: <list sources used, if any>
+Author: <JaEimele24>
+Credit: <N/A>
 
 Assignment:
 
