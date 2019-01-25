@@ -1,7 +1,7 @@
 """
 helloworld.py
 Author: miViriaz15
-Credit: <list sources used, if any>
+Credit: None
 
 Assignment:
 
