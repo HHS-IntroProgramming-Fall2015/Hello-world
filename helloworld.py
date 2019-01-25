@@ -1,6 +1,6 @@
 """
 helloworld.py
-Author: Walter Schutz
+Author: waSclthu11
 Credit: The default "Hello, world!" code that appears when you open a new runpython.
 
 Assignment:
