@@ -1,6 +1,6 @@
 """
 helloworld.py
-Author: <emBrileg08>
+Author: emBrileg08
 Credit: NA
 
 Assignment:
