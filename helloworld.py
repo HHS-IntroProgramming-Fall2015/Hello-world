@@ -1,7 +1,7 @@
 """
 helloworld.py
 Author: almcecde03
-Credit: <list sources used, if any>
+Credit: Help from Mr. Dennison
 
 Assignment:
 
