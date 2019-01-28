@@ -1,7 +1,7 @@
 """
 helloworld.py
 Author: Curtis Pych
-Credit: python
+Credit: none
 
 Assignment:
 
